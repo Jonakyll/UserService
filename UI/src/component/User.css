@@ -1,0 +1,14 @@
+.username {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.user_item {
+    background-color: rgba(164, 247, 215, 0.5) !important;
+    font-family: monospace;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border-radius: 10px !important;
+}
